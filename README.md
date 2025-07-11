@@ -1,4 +1,6 @@
-## Hi there 👋, I am Steven Sie SANTOSA, I am currently a student at City University of Hong Kong majoring Data Science. I am passionate about Data, and currently leveragin my skills on Data Analytics, Data Engineering, and Machine Learning for Large Languange Model. 
+## About Me 
+
+Hi there 👋, I am Steven Sie SANTOSA, I am currently a student at City University of Hong Kong majoring Data Science. I am passionate about Data, and currently leveragin my skills on Data Analytics, Data Engineering, and Machine Learning for Large Languange Model. 
 
 LinkedIn
 
