@@ -1,8 +1,15 @@
-## About Me 
+# About Me 
 
-Hi there 👋, I am Steven Sie SANTOSA, I am currently a student at City University of Hong Kong majoring Data Science. I am passionate about Data, and currently leveragin my skills on Data Analytics, Data Engineering, and Machine Learning for Large Languange Model. 
+Hi there 👋! I’m Steven Sie Santosa, a dedicated student at City University of Hong Kong, majoring in Data Science. My passion lies in harnessing the power of data to drive insights and innovation.
 
-LinkedIn
+## Educational Background
+Currently pursuing my degree, I am gaining a solid foundation in statistical analysis, data visualization, and machine learning. I’m particularly fascinated by the ways data can be transformed into actionable strategies across various industries.
+
+### Connect With Me 🌐! 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/steven-sie-santosaa-769a73287/)
+
+<!--
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wisdomadewumi.github.io)
 
 <!--
 **stevensie09/stevensie09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
